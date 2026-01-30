@@ -1,0 +1,401 @@
+row_id,time,lat,lon,granule_id,status
+0,2024-03-19 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 43.59769, 'Longitude': -93.38889}, {'Latitude': 37.83918, 'Longitude': -124.64835}, {'Latitude': 20.52785, 'Longitude': -117.3364}, {'Latitude': 25.75644, 'Longitude': -91.65299}, {'Latitude': 43.59769, 'Longitude': -93.38889}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-03-19T19:48:51Z', 'BeginningDateTime': '2024-03-19T19:43:51Z'}}
+Size(MB): 48.74116897583008
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240319T194351.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+0,2024-03-19 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+1,2024-03-26 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+1,2024-03-26 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+2,2024-04-01 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+2,2024-04-01 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+3,2024-04-08 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 51.56424, 'Longitude': -96.33016}, {'Latitude': 45.32861, 'Longitude': -132.11922}, {'Latitude': 28.3676, 'Longitude': -122.88293}, {'Latitude': 33.76893, 'Longitude': -95.29762}, {'Latitude': 51.56424, 'Longitude': -96.33016}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-04-08T20:01:45Z', 'BeginningDateTime': '2024-04-08T19:56:46Z'}}
+Size(MB): 39.76459789276123
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240408T195646.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+3,2024-04-08 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+4,2024-04-15 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+4,2024-04-15 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+5,2024-04-22 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 38.89548, 'Longitude': -95.07535}, {'Latitude': 33.33688, 'Longitude': -124.33125}, {'Latitude': 15.88807, 'Longitude': -117.87155}, {'Latitude': 21.04127, 'Longitude': -93.00178}, {'Latitude': 38.89548, 'Longitude': -95.07535}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-04-22T19:55:17Z', 'BeginningDateTime': '2024-04-22T19:50:18Z'}}
+Size(MB): 124.49233436584473
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240422T195018.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+5,2024-04-22 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+6,2024-04-29 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+6,2024-04-29 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+7,2024-05-06 18:00:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 43.03849, 'Longitude': -94.48848}, {'Latitude': 37.3149, 'Longitude': -125.42841}, {'Latitude': 19.97834, 'Longitude': -118.22984}, {'Latitude': 25.18852, 'Longitude': -92.69884}, {'Latitude': 43.03849, 'Longitude': -94.48848}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-05-06T19:52:50Z', 'BeginningDateTime': '2024-05-06T19:47:50Z'}}
+Size(MB): 59.83066368103027
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240506T194750.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+7,2024-05-06 18:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+8,2024-05-20 17:00:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 46.91491, 'Longitude': -93.64565}, {'Latitude': 40.99553, 'Longitude': -126.5036}, {'Latitude': 23.80365, 'Longitude': -118.4806}, {'Latitude': 29.08321, 'Longitude': -92.16035}, {'Latitude': 46.91491, 'Longitude': -93.64565}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-05-20T19:44:43Z', 'EndingDateTime': '2024-05-20T19:49:43Z'}}
+Size(MB): 28.82438564300537
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240520T194443.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+8,2024-05-20 17:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+9,2024-05-28 17:00:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+9,2024-05-28 17:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+10,2024-06-03 17:00:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 48.38554, 'Longitude': -92.48586}, {'Latitude': 42.37724, 'Longitude': -126.18114}, {'Latitude': 25.25097, 'Longitude': -117.80109}, {'Latitude': 30.56194, 'Longitude': -91.13129}, {'Latitude': 48.38554, 'Longitude': -92.48586}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-06-03T19:45:16Z', 'BeginningDateTime': '2024-06-03T19:40:17Z'}}
+Size(MB): 22.324332237243652
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240603T194017.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+10,2024-06-03 17:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+11,2024-06-10 17:00:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+11,2024-06-10 17:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+12,2024-06-17 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 49.18101, 'Longitude': -91.19553}, {'Latitude': 43.12145, 'Longitude': -125.3736}, {'Latitude': 26.03343, 'Longitude': -116.79086}, {'Latitude': 31.36341, 'Longitude': -89.9136}, {'Latitude': 49.18101, 'Longitude': -91.19553}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-06-17T19:35:15Z', 'EndingDateTime': '2024-06-17T19:40:14Z'}}
+Size(MB): 20.673928260803223
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240617T193515.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+12,2024-06-17 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+13,2024-06-26 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 48.99319, 'Longitude': -95.56219}, {'Latitude': 42.9444, 'Longitude': -129.63599}, {'Latitude': 20.73783, 'Longitude': -119.31011}, {'Latitude': 25.83277, 'Longitude': -93.61721}, {'Latitude': 48.99319, 'Longitude': -95.56219}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-06-26T19:57:41Z', 'BeginningDateTime': '2024-06-26T19:52:42Z'}}
+Size(MB): 44.00167369842529
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240626T195242.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+13,2024-06-26 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+14,2024-07-08 19:00:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 47.90723, 'Longitude': -101.32195}, {'Latitude': 41.92792, 'Longitude': -134.74365}, {'Latitude': 19.66311, 'Longitude': -124.73297}, {'Latitude': 24.7458, 'Longitude': -99.25383}, {'Latitude': 47.90723, 'Longitude': -101.32195}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-07-08T20:15:28Z', 'EndingDateTime': '2024-07-08T20:20:27Z'}}
+Size(MB): 131.3213014602661
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240708T201528.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+14,2024-07-08 19:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+15,2024-07-15 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 46.89606, 'Longitude': -88.21547}, {'Latitude': 40.98158, 'Longitude': -121.03666}, {'Latitude': 23.78315, 'Longitude': -113.07407}, {'Latitude': 29.06478, 'Longitude': -86.74104}, {'Latitude': 46.89606, 'Longitude': -88.21547}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-07-15T19:22:58Z', 'EndingDateTime': '2024-07-15T19:27:57Z'}}
+Size(MB): 21.168701171875
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240715T192258.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+15,2024-07-15 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+16,2024-07-23 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+16,2024-07-23 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+17,2024-07-30 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 43.87994, 'Longitude': -95.13289}, {'Latitude': 38.11948, 'Longitude': -126.45164}, {'Latitude': 15.65312, 'Longitude': -117.48641}, {'Latitude': 20.69418, 'Longitude': -92.66866}, {'Latitude': 43.87994, 'Longitude': -95.13289}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-07-30T19:50:15Z', 'EndingDateTime': '2024-07-30T19:55:14Z'}}
+Size(MB): 74.33351612091064
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240730T195015.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+17,2024-07-30 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+18,2024-08-05 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 42.45772, 'Longitude': -97.83572}, {'Latitude': 36.76473, 'Longitude': -128.49094}, {'Latitude': 14.24061, 'Longitude': -119.85183}, {'Latitude': 19.27019, 'Longitude': -95.23791}, {'Latitude': 42.45772, 'Longitude': -97.83572}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-08-05T20:05:57Z', 'BeginningDateTime': '2024-08-05T20:00:57Z'}}
+Size(MB): 119.72463607788086
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240805T200057.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+18,2024-08-05 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+19,2024-08-12 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+19,2024-08-12 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+20,2024-08-20 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 37.8862, 'Longitude': -104.32362}, {'Latitude': 32.38555, 'Longitude': -133.10469}, {'Latitude': 14.89275, 'Longitude': -126.80279}, {'Latitude': 20.00571, 'Longitude': -102.17793}, {'Latitude': 37.8862, 'Longitude': -104.32362}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-08-20T20:26:46Z', 'EndingDateTime': '2024-08-20T20:31:45Z'}}
+Size(MB): 431.488977432251
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240820T202646.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+20,2024-08-20 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+21,2024-08-27 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 53.53132, 'Longitude': -91.61497}, {'Latitude': 47.15958, 'Longitude': -128.7085}, {'Latitude': 30.31064, 'Longitude': -118.87923}, {'Latitude': 35.75221, 'Longitude': -90.77785}, {'Latitude': 53.53132, 'Longitude': -91.61497}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-08-27T19:42:55Z', 'BeginningDateTime': '2024-08-27T19:37:56Z'}}
+Size(MB): 16.579944610595703
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240827T193756.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+21,2024-08-27 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+22,2024-09-03 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 51.32439, 'Longitude': -102.88197}, {'Latitude': 45.12959, 'Longitude': -138.35854}, {'Latitude': 28.14144, 'Longitude': -129.19592}, {'Latitude': 33.50956, 'Longitude': -101.81602}, {'Latitude': 51.32439, 'Longitude': -102.88197}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-09-03T20:27:12Z', 'BeginningDateTime': '2024-09-03T20:22:12Z'}}
+Size(MB): 79.1415319442749
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240903T202212.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+22,2024-09-03 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+23,2024-09-09 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+23,2024-09-09 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+24,2024-09-16 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 46.54337, 'Longitude': -91.8532}, {'Latitude': 40.65727, 'Longitude': -124.4361}, {'Latitude': 23.44167, 'Longitude': -116.50111}, {'Latitude': 28.70315, 'Longitude': -90.329}, {'Latitude': 46.54337, 'Longitude': -91.8532}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-09-16T19:37:10Z', 'EndingDateTime': '2024-09-16T19:42:10Z'}}
+Size(MB): 33.89035511016846
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20240916T193710.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+24,2024-09-16 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+25,2024-09-24 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+25,2024-09-24 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+26,2024-10-15 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 53.38657, 'Longitude': -95.21554}, {'Latitude': 47.02881, 'Longitude': -132.16451}, {'Latitude': 30.16908, 'Longitude': -122.37571}, {'Latitude': 35.59997, 'Longitude': -94.36678}, {'Latitude': 53.38657, 'Longitude': -95.21554}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-10-15T19:57:13Z', 'BeginningDateTime': '2024-10-15T19:52:14Z'}}
+Size(MB): 14.62442398071289
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241015T195214.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+26,2024-10-15 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+27,2024-10-21 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 51.23268, 'Longitude': -97.46583}, {'Latitude': 45.0424, 'Longitude': -132.87668}, {'Latitude': 28.05923, 'Longitude': -123.74014}, {'Latitude': 33.43011, 'Longitude': -96.38232}, {'Latitude': 51.23268, 'Longitude': -97.46583}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-10-21T20:00:35Z', 'EndingDateTime': '2024-10-21T20:05:34Z'}}
+Size(MB): 62.20326805114746
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241021T200035.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+27,2024-10-21 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+28,2024-10-28 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+28,2024-10-28 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+29,2024-11-05 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 46.23999, 'Longitude': -103.05786}, {'Latitude': 40.37089, 'Longitude': -135.45465}, {'Latitude': 23.14327, 'Longitude': -127.58083}, {'Latitude': 28.39416, 'Longitude': -101.50716}, {'Latitude': 46.23999, 'Longitude': -103.05786}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2024-11-05T20:26:57Z', 'BeginningDateTime': '2024-11-05T20:21:58Z'}}
+Size(MB): 213.13125038146973
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241105T202158.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+29,2024-11-05 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+30,2024-11-12 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 44.15631, 'Longitude': -89.27097}, {'Latitude': 38.39334, 'Longitude': -120.62328}, {'Latitude': 21.09394, 'Longitude': -113.22411}, {'Latitude': 26.3129, 'Longitude': -87.56062}, {'Latitude': 44.15631, 'Longitude': -89.27097}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-11-12T19:26:46Z', 'EndingDateTime': '2024-11-12T19:31:45Z'}}
+Size(MB): 65.67219638824463
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241112T192646.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+30,2024-11-12 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 44.13385, 'Longitude': -113.90416}, {'Latitude': 38.38025, 'Longitude': -145.21027}, {'Latitude': 21.07296, 'Longitude': -137.78494}, {'Latitude': 26.28794, 'Longitude': -112.14143}, {'Latitude': 44.13385, 'Longitude': -113.90416}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-11-12T21:05:03Z', 'EndingDateTime': '2024-11-12T21:10:03Z'}}
+Size(MB): 281.7344779968262
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241112T210503.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+30,2024-11-12 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+31,2024-11-19 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 42.18977, 'Longitude': -100.03502}, {'Latitude': 36.51681, 'Longitude': -130.49748}, {'Latitude': 19.14395, 'Longitude': -123.45276}, {'Latitude': 24.32907, 'Longitude': -98.16414}, {'Latitude': 42.18977, 'Longitude': -100.03502}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-11-19T20:09:42Z', 'EndingDateTime': '2024-11-19T20:14:41Z'}}
+Size(MB): 199.93546104431152
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241119T200942.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+31,2024-11-19 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+32,2024-11-26 18:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 40.77763, 'Longitude': -110.84101}, {'Latitude': 35.18047, 'Longitude': -140.63914}, {'Latitude': 17.76456, 'Longitude': -133.84793}, {'Latitude': 22.93083, 'Longitude': -108.78957}, {'Latitude': 40.77763, 'Longitude': -110.84101}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-11-26T20:52:39Z', 'EndingDateTime': '2024-11-26T20:57:38Z'}}
+Size(MB): 129.92205429077148
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241126T205239.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+32,2024-11-26 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+33,2024-12-09 18:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 38.8397, 'Longitude': -98.98125}, {'Latitude': 33.29691, 'Longitude': -128.10713}, {'Latitude': 15.82645, 'Longitude': -121.64619}, {'Latitude': 20.96769, 'Longitude': -96.88117}, {'Latitude': 38.8397, 'Longitude': -98.98125}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-12-09T20:05:42Z', 'EndingDateTime': '2024-12-09T20:10:41Z'}}
+Size(MB): 193.12743759155273
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241209T200542.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+33,2024-12-09 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+34,2024-12-17 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 38.29622, 'Longitude': -94.45763}, {'Latitude': 32.76492, 'Longitude': -123.4157}, {'Latitude': 15.28043, 'Longitude': -117.03407}, {'Latitude': 20.41739, 'Longitude': -92.33913}, {'Latitude': 38.29622, 'Longitude': -94.45763}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-12-17T19:47:45Z', 'EndingDateTime': '2024-12-17T19:52:44Z'}}
+Size(MB): 201.1335973739624
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241217T194745.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+34,2024-12-17 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 56.07887, 'Longitude': -94.9612}, {'Latitude': 49.45805, 'Longitude': -134.1582}, {'Latitude': 32.77517, 'Longitude': -123.41955}, {'Latitude': 38.30676, 'Longitude': -94.45762}, {'Latitude': 56.07887, 'Longitude': -94.9612}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-12-17T19:52:45Z', 'EndingDateTime': '2024-12-17T19:57:45Z'}}
+Size(MB): 17.644829750061035
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241217T195245.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+34,2024-12-17 18:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 38.33512, 'Longitude': -119.12103}, {'Latitude': 32.82093, 'Longitude': -148.01752}, {'Latitude': 15.33728, 'Longitude': -141.62668}, {'Latitude': 20.474, 'Longitude': -116.93027}, {'Latitude': 38.33512, 'Longitude': -119.12103}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2024-12-17T21:26:05Z', 'EndingDateTime': '2024-12-17T21:31:05Z'}}
+Size(MB): 325.4542474746704
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20241217T212605.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+34,2024-12-17 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+35,2025-01-06 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 39.38526, 'Longitude': -96.0835}, {'Latitude': 33.80205, 'Longitude': -125.51144}, {'Latitude': 16.35615, 'Longitude': -118.9482}, {'Latitude': 21.51779, 'Longitude': -94.04441}, {'Latitude': 39.38526, 'Longitude': -96.0835}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-01-06T19:54:26Z', 'EndingDateTime': '2025-01-06T19:59:25Z'}}
+Size(MB): 206.46771812438965
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250106T195426.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+35,2025-01-06 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+36,2025-01-15 18:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 40.66225, 'Longitude': -100.45686}, {'Latitude': 35.02655, 'Longitude': -130.39964}, {'Latitude': 17.62145, 'Longitude': -123.61914}, {'Latitude': 22.80698, 'Longitude': -98.49036}, {'Latitude': 40.66225, 'Longitude': -100.45686}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-01-15T20:16:55Z', 'BeginningDateTime': '2025-01-15T20:11:56Z'}}
+Size(MB): 226.28097820281982
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250115T201156.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+36,2025-01-15 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+37,2025-01-21 18:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 41.96275, 'Longitude': -103.37862}, {'Latitude': 36.2751, 'Longitude': -133.85953}, {'Latitude': 18.91163, 'Longitude': -126.84737}, {'Latitude': 24.10189, 'Longitude': -101.53596}, {'Latitude': 41.96275, 'Longitude': -103.37862}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-01-21T20:23:37Z', 'EndingDateTime': '2025-01-21T20:28:36Z'}}
+Size(MB): 141.9476137161255
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250121T202337.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+37,2025-01-21 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+38,2025-01-27 18:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 43.32999, 'Longitude': -106.26408}, {'Latitude': 37.58137, 'Longitude': -137.34756}, {'Latitude': 20.27382, 'Longitude': -130.08162}, {'Latitude': 25.49047, 'Longitude': -104.50766}, {'Latitude': 43.32999, 'Longitude': -106.26408}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-01-27T20:35:12Z', 'EndingDateTime': '2025-01-27T20:40:11Z'}}
+Size(MB): 243.29874801635742
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250127T203512.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+38,2025-01-27 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+39,2025-02-04 18:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 45.67784, 'Longitude': -101.84344}, {'Latitude': 39.80832, 'Longitude': -134.08775}, {'Latitude': 22.57523, 'Longitude': -126.33906}, {'Latitude': 27.84813, 'Longitude': -100.24918}, {'Latitude': 45.67784, 'Longitude': -101.84344}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-02-04T20:17:51Z', 'EndingDateTime': '2025-02-04T20:22:50Z'}}
+Size(MB): 92.87387561798096
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250204T201751.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+39,2025-02-04 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+40,2025-02-10 18:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 47.40725, 'Longitude': -105.7742}, {'Latitude': 41.43512, 'Longitude': -138.97411}, {'Latitude': 24.27419, 'Longitude': -130.81548}, {'Latitude': 29.579, 'Longitude': -104.34782}, {'Latitude': 47.40725, 'Longitude': -105.7742}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-02-10T20:38:50Z', 'BeginningDateTime': '2025-02-10T20:33:50Z'}}
+Size(MB): 105.60969161987305
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250210T203350.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+40,2025-02-10 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+41,2025-02-18 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 50.19919, 'Longitude': -102.98235}, {'Latitude': 44.04181, 'Longitude': -137.90021}, {'Latitude': 27.01615, 'Longitude': -129.02707}, {'Latitude': 32.39109, 'Longitude': -101.82571}, {'Latitude': 50.19919, 'Longitude': -102.98235}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-02-18T20:23:19Z', 'EndingDateTime': '2025-02-18T20:28:19Z'}}
+Size(MB): 69.55482387542725
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250218T202319.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+41,2025-02-18 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+42,2025-02-25 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 52.79685, 'Longitude': -91.20741}, {'Latitude': 46.434, 'Longitude': -127.97268}, {'Latitude': 29.55752, 'Longitude': -118.33665}, {'Latitude': 35.01627, 'Longitude': -90.32092}, {'Latitude': 52.79685, 'Longitude': -91.20741}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-02-25T19:42:07Z', 'BeginningDateTime': '2025-02-25T19:37:07Z'}}
+Size(MB): 15.10806941986084
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250225T193707.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+42,2025-02-25 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 35.00979, 'Longitude': -114.94159}, {'Latitude': 29.55897, 'Longitude': -142.92482}, {'Latitude': 12.01299, 'Longitude': -137.0239}, {'Latitude': 17.14102, 'Longitude': -112.61022}, {'Latitude': 35.00979, 'Longitude': -114.94159}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-02-25T21:10:29Z', 'EndingDateTime': '2025-02-25T21:15:28Z'}}
+Size(MB): 268.3526544570923
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250225T211029.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+42,2025-02-25 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+43,2025-03-04 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 37.60953, 'Longitude': -103.4042}, {'Latitude': 32.07471, 'Longitude': -132.25984}, {'Latitude': 14.59373, 'Longitude': -125.97673}, {'Latitude': 19.73123, 'Longitude': -101.2899}, {'Latitude': 37.60953, 'Longitude': -103.4042}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-03-04T20:24:07Z', 'EndingDateTime': '2025-03-04T20:29:06Z'}}
+Size(MB): 264.2999839782715
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250304T202407.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+43,2025-03-04 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+44,2025-03-10 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+44,2025-03-10 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+45,2025-03-17 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 42.85953, 'Longitude': -95.82812}, {'Latitude': 37.09972, 'Longitude': -126.86269}, {'Latitude': 19.77929, 'Longitude': -119.67494}, {'Latitude': 25.02542, 'Longitude': -94.042}, {'Latitude': 42.85953, 'Longitude': -95.82812}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-03-17T19:54:00Z', 'EndingDateTime': '2025-03-17T19:59:00Z'}}
+Size(MB): 151.18320560455322
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250317T195400.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+45,2025-03-17 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+46,2025-03-24 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+46,2025-03-24 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+47,2025-04-01 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+47,2025-04-01 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+48,2025-04-07 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+48,2025-04-07 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+49,2025-04-14 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 35.83427, 'Longitude': -96.65913}, {'Latitude': 30.34381, 'Longitude': -124.96265}, {'Latitude': 7.58696, 'Longitude': -117.58913}, {'Latitude': 12.6267, 'Longitude': -93.51579}, {'Latitude': 35.83427, 'Longitude': -96.65913}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-04-14T20:02:34Z', 'BeginningDateTime': '2025-04-14T19:57:35Z'}}
+Size(MB): 154.51332187652588
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250414T195735.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+49,2025-04-14 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 53.61342, 'Longitude': -97.47021}, {'Latitude': 47.18151, 'Longitude': -134.83907}, {'Latitude': 30.35403, 'Longitude': -124.96642}, {'Latitude': 35.84477, 'Longitude': -96.65954}, {'Latitude': 53.61342, 'Longitude': -97.47021}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-04-14T20:02:35Z', 'EndingDateTime': '2025-04-14T20:07:35Z'}}
+Size(MB): 34.40828800201416
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250414T200235.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+49,2025-04-14 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+50,2025-04-23 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 39.08956, 'Longitude': -102.58688}, {'Latitude': 33.5064, 'Longitude': -131.94945}, {'Latitude': 16.07346, 'Longitude': -125.45519}, {'Latitude': 21.2353, 'Longitude': -100.53745}, {'Latitude': 39.08956, 'Longitude': -102.58688}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-04-23T20:25:52Z', 'BeginningDateTime': '2025-04-23T20:20:53Z'}}
+Size(MB): 85.06621646881104
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250423T202053.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+50,2025-04-23 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+51,2025-04-29 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+51,2025-04-29 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+52,2025-05-12 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 44.56494, 'Longitude': -98.20721}, {'Latitude': 38.75238, 'Longitude': -129.87077}, {'Latitude': 16.31351, 'Longitude': -120.73305}, {'Latitude': 21.3774, 'Longitude': -95.78795}, {'Latitude': 44.56494, 'Longitude': -98.20721}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-05-12T20:08:29Z', 'BeginningDateTime': '2025-05-12T20:03:30Z'}}
+Size(MB): 67.07528781890869
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250512T200330.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+52,2025-05-12 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+53,2025-05-21 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 46.47937, 'Longitude': -103.86472}, {'Latitude': 40.59704, 'Longitude': -136.49931}, {'Latitude': 23.38568, 'Longitude': -128.58427}, {'Latitude': 28.63651, 'Longitude': -102.37897}, {'Latitude': 46.47937, 'Longitude': -103.86472}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-05-21T20:26:19Z', 'EndingDateTime': '2025-05-21T20:31:18Z'}}
+Size(MB): 146.87786388397217
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250521T202619.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+53,2025-05-21 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+54,2025-05-27 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+54,2025-05-27 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+55,2025-06-04 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 48.52037, 'Longitude': -104.43014}, {'Latitude': 42.51398, 'Longitude': -138.23459}, {'Latitude': 25.40336, 'Longitude': -129.82635}, {'Latitude': 30.70054, 'Longitude': -103.12898}, {'Latitude': 48.52037, 'Longitude': -104.43014}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-06-04T20:28:43Z', 'EndingDateTime': '2025-06-04T20:33:42Z'}}
+Size(MB): 51.51641368865967
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250604T202843.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+55,2025-06-04 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+56,2025-06-16 18:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 49.12425, 'Longitude': -111.8495}, {'Latitude': 43.07228, 'Longitude': -146.05531}, {'Latitude': 25.98593, 'Longitude': -137.48177}, {'Latitude': 31.30018, 'Longitude': -110.61423}, {'Latitude': 49.12425, 'Longitude': -111.8495}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-06-16T20:58:22Z', 'EndingDateTime': '2025-06-16T21:03:21Z'}}
+Size(MB): 269.00037956237793
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250616T205822.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+56,2025-06-16 18:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+57,2025-06-23 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 49.11949, 'Longitude': -99.73152}, {'Latitude': 43.05915, 'Longitude': -133.98753}, {'Latitude': 20.84469, 'Longitude': -123.61066}, {'Latitude': 25.94251, 'Longitude': -97.83231}, {'Latitude': 49.11949, 'Longitude': -99.73152}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-06-23T20:09:56Z', 'EndingDateTime': '2025-06-23T20:14:55Z'}}
+Size(MB): 31.687042236328125
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250623T200956.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+57,2025-06-23 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+58,2025-07-07 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 48.05592, 'Longitude': -100.07763}, {'Latitude': 42.05221, 'Longitude': -133.75954}, {'Latitude': 19.78728, 'Longitude': -123.69485}, {'Latitude': 24.88162, 'Longitude': -98.07106}, {'Latitude': 48.05592, 'Longitude': -100.07763}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-07-07T20:11:01Z', 'EndingDateTime': '2025-07-07T20:16:00Z'}}
+Size(MB): 41.624207496643066
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250707T201101.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+58,2025-07-07 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+59,2025-07-14 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 47.08028, 'Longitude': -87.92017}, {'Latitude': 41.13568, 'Longitude': -121.03699}, {'Latitude': 23.96393, 'Longitude': -113.01359}, {'Latitude': 29.26513, 'Longitude': -86.5005}, {'Latitude': 47.08028, 'Longitude': -87.92017}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-07-14T19:27:11Z', 'BeginningDateTime': '2025-07-14T19:22:12Z'}}
+Size(MB): 21.829116821289062
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250714T192212.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+59,2025-07-14 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+60,2025-07-21 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 45.87694, 'Longitude': -100.36122}, {'Latitude': 39.99518, 'Longitude': -132.8591}, {'Latitude': 17.61782, 'Longitude': -123.39279}, {'Latitude': 22.69431, 'Longitude': -98.12524}, {'Latitude': 45.87694, 'Longitude': -100.36122}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-07-21T20:11:38Z', 'EndingDateTime': '2025-07-21T20:16:37Z'}}
+Size(MB): 65.76503658294678
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250721T201138.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+60,2025-07-21 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+61,2025-07-28 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 44.37886, 'Longitude': -88.15569}, {'Latitude': 38.58553, 'Longitude': -119.82092}, {'Latitude': 21.30142, 'Longitude': -112.4425}, {'Latitude': 26.55091, 'Longitude': -86.50466}, {'Latitude': 44.37886, 'Longitude': -88.15569}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-07-28T19:27:34Z', 'BeginningDateTime': '2025-07-28T19:22:35Z'}}
+Size(MB): 70.43101501464844
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250728T192235.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+61,2025-07-28 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+62,2025-08-05 17:30:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+62,2025-08-05 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+63,2025-08-12 17:30:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 40.40172, 'Longitude': -97.04131}, {'Latitude': 34.78278, 'Longitude': -126.96792}, {'Latitude': 12.17878, 'Longitude': -118.77287}, {'Latitude': 17.21019, 'Longitude': -94.29641}, {'Latitude': 40.40172, 'Longitude': -97.04131}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-08-12T20:02:34Z', 'BeginningDateTime': '2025-08-12T19:57:35Z'}}
+Size(MB): 171.21232986450195
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250812T195735.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+63,2025-08-12 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+64,2025-08-25 17:30:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 54.20853, 'Longitude': -88.90514}, {'Latitude': 47.77266, 'Longitude': -126.65471}, {'Latitude': 30.97411, 'Longitude': -116.61337}, {'Latitude': 36.44585, 'Longitude': -88.17854}, {'Latitude': 54.20853, 'Longitude': -88.90514}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-08-25T19:32:00Z', 'BeginningDateTime': '2025-08-25T19:27:01Z'}}
+Size(MB): 12.989340782165527
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250825T192701.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+64,2025-08-25 17:30:00+00:00,33.6061,-117.9311,,ROW_DONE
+65,2025-09-09 16:00:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+65,2025-09-09 16:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+66,2025-09-15 17:00:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+66,2025-09-15 17:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+67,2025-09-22 17:00:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 44.29778, 'Longitude': -89.05516}, {'Latitude': 38.53234, 'Longitude': -120.54679}, {'Latitude': 21.2393, 'Longitude': -113.13593}, {'Latitude': 26.45963, 'Longitude': -87.37814}, {'Latitude': 44.29778, 'Longitude': -89.05516}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-09-22T19:29:50Z', 'BeginningDateTime': '2025-09-22T19:24:51Z'}}
+Size(MB): 58.89950656890869
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20250922T192451.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+67,2025-09-22 17:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+68,2025-09-29 17:00:00+00:00,33.6061,-117.9311,NONE,No Granules Found
+68,2025-09-29 17:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+69,2025-11-03 18:00:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 46.64418, 'Longitude': -88.71016}, {'Latitude': 40.7305, 'Longitude': -121.52309}, {'Latitude': 23.54348, 'Longitude': -113.61665}, {'Latitude': 28.83479, 'Longitude': -87.24128}, {'Latitude': 46.64418, 'Longitude': -88.71016}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-11-03T19:28:26Z', 'BeginningDateTime': '2025-11-03T19:23:27Z'}}
+Size(MB): 42.13658905029297
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20251103T192327.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+69,2025-11-03 18:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+70,2025-11-10 18:00:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 44.57424, 'Longitude': -100.77612}, {'Latitude': 38.76295, 'Longitude': -132.56717}, {'Latitude': 21.49422, 'Longitude': -125.05404}, {'Latitude': 26.74574, 'Longitude': -99.1241}, {'Latitude': 44.57424, 'Longitude': -100.77612}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-11-10T20:16:20Z', 'BeginningDateTime': '2025-11-10T20:11:21Z'}}
+Size(MB): 94.05643367767334
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20251110T201121.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+70,2025-11-10 18:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+71,2025-11-17 18:00:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 42.74762, 'Longitude': -88.18633}, {'Latitude': 37.0296, 'Longitude': -119.0591}, {'Latitude': 19.68673, 'Longitude': -111.98739}, {'Latitude': 24.90986, 'Longitude': -86.40085}, {'Latitude': 42.74762, 'Longitude': -88.18633}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-11-17T19:20:51Z', 'EndingDateTime': '2025-11-17T19:25:50Z'}}
+Size(MB): 89.42367744445801
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20251117T192051.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+71,2025-11-17 18:00:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 42.72997, 'Longitude': -112.81772}, {'Latitude': 37.01236, 'Longitude': -143.70781}, {'Latitude': 19.67868, 'Longitude': -136.56471}, {'Latitude': 24.89708, 'Longitude': -110.99772}, {'Latitude': 42.72997, 'Longitude': -112.81772}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-11-17T20:59:11Z', 'EndingDateTime': '2025-11-17T21:04:10Z'}}
+Size(MB): 290.152006149292
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20251117T205911.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+71,2025-11-17 18:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+72,2025-11-24 18:00:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 41.0099, 'Longitude': -100.18591}, {'Latitude': 35.36372, 'Longitude': -130.3432}, {'Latitude': 17.98381, 'Longitude': -123.52731}, {'Latitude': 23.17108, 'Longitude': -98.27429}, {'Latitude': 41.0099, 'Longitude': -100.18591}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-11-24T20:13:36Z', 'BeginningDateTime': '2025-11-24T20:08:37Z'}}
+Size(MB): 214.24740505218506
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20251124T200837.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+72,2025-11-24 18:00:00+00:00,33.6061,-117.9311,,ROW_DONE
+73,2025-12-01 18:00:00+00:00,33.6061,-117.9311,"Collection: {'Version': '3.1', 'ShortName': 'PACE_OCI_L2_AOP'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 39.80501, 'Longitude': -87.56536}, {'Latitude': 34.20923, 'Longitude': -117.20447}, {'Latitude': 16.78747, 'Longitude': -110.63634}, {'Latitude': 21.96413, 'Longitude': -85.56257}, {'Latitude': 39.80501, 'Longitude': -87.56536}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-12-01T19:18:07Z', 'EndingDateTime': '2025-12-01T19:23:06Z'}}
+Size(MB): 46.74519443511963
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20251201T191807.L2.OC_AOP.V3_1.nc']",Swath Misses Station
+73,2025-12-01 18:00:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 57.55402, 'Longitude': -87.83576}, {'Latitude': 50.77655, 'Longitude': -128.52676}, {'Latitude': 34.22034, 'Longitude': -117.20181}, {'Latitude': 39.81556, 'Longitude': -87.56523}, {'Latitude': 57.55402, 'Longitude': -87.83576}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'EndingDateTime': '2025-12-01T19:28:06Z', 'BeginningDateTime': '2025-12-01T19:23:07Z'}}
+Size(MB): 9.812422752380371
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20251201T192307.L2.OC_AOP.V3_1.nc']",Swath Misses Station
+73,2025-12-01 18:00:00+00:00,33.6061,-117.9311,"Collection: {'ShortName': 'PACE_OCI_L2_AOP', 'Version': '3.1'}
+Spatial coverage: {'HorizontalSpatialDomain': {'Geometry': {'GPolygons': [{'Boundary': {'Points': [{'Latitude': 39.8011, 'Longitude': -112.20128}, {'Latitude': 34.21288, 'Longitude': -141.82222}, {'Latitude': 16.78495, 'Longitude': -135.21317}, {'Latitude': 21.96031, 'Longitude': -110.14718}, {'Latitude': 39.8011, 'Longitude': -112.20128}]}}]}}}
+Temporal coverage: {'RangeDateTime': {'BeginningDateTime': '2025-12-01T20:56:27Z', 'EndingDateTime': '2025-12-01T21:01:26Z'}}
+Size(MB): 229.31139469146729
+Data: ['https://obdaac-tea.earthdatacloud.nasa.gov/ob-cumulus-prod-public/PACE_OCI.20251201T205627.L2.OC_AOP.V3_1.nc']",Swath Covers Station
+73,2025-12-01 18:00:00+00:00,33.6061,-117.9311,,ROW_DONE

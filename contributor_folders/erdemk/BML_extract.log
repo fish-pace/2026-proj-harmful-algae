@@ -1,0 +1,506 @@
+2026-01-29 16:50:38,418 | INFO | RESUME CHECK | progress_csv=BML_extract_progress.csv | done_obs=0
+2026-01-29 16:50:38,418 | INFO | START | out_store=BML_rrs_matchups_5x5.zarr progress=BML_extract_progress.csv done_obs=0 buffer_n=2 window=5 progress_flush_every=50
+2026-01-29 16:50:38,418 | INFO | MEM_MB start: 2037.1
+2026-01-29 16:50:38,425 | INFO | GRANULE start | PACE_OCI.20240318T204706.L2.OC_AOP.V3_1.nc | rows=2 | mem_mb=2037.140625
+2026-01-29 16:50:39,340 | INFO | WAVELENGTH set | n=172
+2026-01-29 16:50:39,340 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:50:41,179 | INFO | STORE_FLUSH | wrote_obs=2 total_done_obs=2
+2026-01-29 16:50:41,179 | INFO | MEM_MB after store flush: 2141.2
+2026-01-29 16:50:41,183 | INFO | GRANULE done | PACE_OCI.20240318T204706.L2.OC_AOP.V3_1.nc | written=2 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:50:41,186 | INFO | GRANULE start | PACE_OCI.20240401T204628.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2141.16796875
+2026-01-29 16:50:42,191 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:50:44,092 | INFO | GRANULE done | PACE_OCI.20240401T204628.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:50:44,239 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=3
+2026-01-29 16:50:44,239 | INFO | MEM_MB after store flush: 2277.1
+2026-01-29 16:50:44,240 | INFO | GRANULE start | PACE_OCI.20240415T204517.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2277.0703125
+2026-01-29 16:50:45,066 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:50:46,917 | INFO | GRANULE done | PACE_OCI.20240415T204517.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:50:47,077 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=4
+2026-01-29 16:50:47,077 | INFO | MEM_MB after store flush: 2065.4
+2026-01-29 16:50:47,078 | INFO | GRANULE start | PACE_OCI.20240422T195518.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2065.40625
+2026-01-29 16:50:47,680 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:50:47,848 | INFO | GRANULE done | PACE_OCI.20240422T195518.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:50:47,851 | INFO | GRANULE start | PACE_OCI.20240422T212838.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2101.98046875
+2026-01-29 16:50:48,729 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:50:50,120 | INFO | GRANULE done | PACE_OCI.20240422T212838.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:50:50,122 | INFO | GRANULE start | PACE_OCI.20240422T213338.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2225.6796875
+2026-01-29 16:50:51,182 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:50:52,397 | INFO | GRANULE done | PACE_OCI.20240422T213338.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:50:52,399 | INFO | GRANULE start | PACE_OCI.20240429T203818.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2329.89453125
+2026-01-29 16:50:53,068 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:50:55,200 | INFO | GRANULE done | PACE_OCI.20240429T203818.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:50:55,352 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=5
+2026-01-29 16:50:55,352 | INFO | MEM_MB after store flush: 2296.9
+2026-01-29 16:50:55,353 | INFO | GRANULE start | PACE_OCI.20240429T204318.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2296.859375
+2026-01-29 16:50:56,268 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:50:58,159 | INFO | GRANULE done | PACE_OCI.20240429T204318.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:50:58,161 | INFO | GRANULE start | PACE_OCI.20240506T194750.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2433.9453125
+2026-01-29 16:50:58,837 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:50:59,879 | INFO | GRANULE done | PACE_OCI.20240506T194750.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:50:59,881 | INFO | GRANULE start | PACE_OCI.20240506T195250.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2481.828125
+2026-01-29 16:51:00,655 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:00,824 | INFO | GRANULE done | PACE_OCI.20240506T195250.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:00,993 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=6
+2026-01-29 16:51:00,994 | INFO | MEM_MB after store flush: 2460.5
+2026-01-29 16:51:00,995 | INFO | GRANULE start | PACE_OCI.20240506T212610.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2460.51953125
+2026-01-29 16:51:02,139 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:03,693 | INFO | GRANULE done | PACE_OCI.20240506T212610.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:03,849 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=7
+2026-01-29 16:51:03,849 | INFO | MEM_MB after store flush: 2477.0
+2026-01-29 16:51:03,850 | INFO | GRANULE start | PACE_OCI.20240513T203532.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2477.01953125
+2026-01-29 16:51:04,751 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:05,359 | INFO | GRANULE done | PACE_OCI.20240513T203532.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:05,362 | INFO | GRANULE start | PACE_OCI.20240516T204152.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2485.33984375
+2026-01-29 16:51:06,175 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:06,757 | INFO | GRANULE done | PACE_OCI.20240516T204152.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:06,759 | INFO | GRANULE start | PACE_OCI.20240520T194443.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2485.40234375
+2026-01-29 16:51:07,561 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:07,958 | INFO | GRANULE done | PACE_OCI.20240520T194443.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:07,960 | INFO | GRANULE start | PACE_OCI.20240520T212303.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2502.09765625
+2026-01-29 16:51:08,550 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:09,374 | INFO | GRANULE done | PACE_OCI.20240520T212303.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:09,549 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=8
+2026-01-29 16:51:09,550 | INFO | MEM_MB after store flush: 2518.9
+2026-01-29 16:51:09,551 | INFO | GRANULE start | PACE_OCI.20240603T194017.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2518.94140625
+2026-01-29 16:51:10,387 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:10,548 | INFO | GRANULE done | PACE_OCI.20240603T194017.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:10,550 | INFO | GRANULE start | PACE_OCI.20240603T211836.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2519.1015625
+2026-01-29 16:51:11,449 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:12,436 | INFO | GRANULE done | PACE_OCI.20240603T211836.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:12,439 | INFO | GRANULE start | PACE_OCI.20240610T202702.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2502.54296875
+2026-01-29 16:51:13,239 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:14,387 | INFO | GRANULE done | PACE_OCI.20240610T202702.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:14,543 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=9
+2026-01-29 16:51:14,544 | INFO | MEM_MB after store flush: 2519.2
+2026-01-29 16:51:14,545 | INFO | GRANULE start | PACE_OCI.20240617T193515.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2519.21484375
+2026-01-29 16:51:15,484 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:15,604 | INFO | GRANULE done | PACE_OCI.20240617T193515.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:15,606 | INFO | GRANULE start | PACE_OCI.20240617T211334.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2535.94921875
+2026-01-29 16:51:16,893 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:20,150 | INFO | GRANULE done | PACE_OCI.20240617T211334.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:20,328 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=10
+2026-01-29 16:51:20,329 | INFO | MEM_MB after store flush: 2536.2
+2026-01-29 16:51:20,330 | INFO | GRANULE start | PACE_OCI.20240624T202137.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2536.16796875
+2026-01-29 16:51:21,061 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:22,247 | INFO | GRANULE done | PACE_OCI.20240624T202137.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:22,250 | INFO | GRANULE start | PACE_OCI.20240701T210749.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2478.21484375
+2026-01-29 16:51:23,105 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:24,787 | INFO | GRANULE done | PACE_OCI.20240701T210749.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:24,941 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=11
+2026-01-29 16:51:24,941 | INFO | MEM_MB after store flush: 2503.0
+2026-01-29 16:51:24,943 | INFO | GRANULE start | PACE_OCI.20240708T201528.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2503.0234375
+2026-01-29 16:51:26,039 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:27,706 | INFO | GRANULE done | PACE_OCI.20240708T201528.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:27,709 | INFO | GRANULE start | PACE_OCI.20240715T210117.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2607.3515625
+2026-01-29 16:51:28,483 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:29,435 | INFO | GRANULE done | PACE_OCI.20240715T210117.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:29,437 | INFO | GRANULE start | PACE_OCI.20240725T201404.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2599.07421875
+2026-01-29 16:51:30,828 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:33,245 | INFO | GRANULE done | PACE_OCI.20240725T201404.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:33,249 | INFO | GRANULE start | PACE_OCI.20240729T205400.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2590.49609375
+2026-01-29 16:51:34,224 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:35,625 | INFO | GRANULE done | PACE_OCI.20240729T205400.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:35,627 | INFO | GRANULE start | PACE_OCI.20240805T200057.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2694.671875
+2026-01-29 16:51:36,697 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:37,527 | INFO | GRANULE done | PACE_OCI.20240805T200057.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:37,530 | INFO | GRANULE start | PACE_OCI.20240805T200557.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2791.2265625
+2026-01-29 16:51:38,729 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:39,162 | INFO | GRANULE done | PACE_OCI.20240805T200557.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:39,164 | INFO | GRANULE start | PACE_OCI.20240812T204559.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2786.78125
+2026-01-29 16:51:40,244 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:42,643 | INFO | GRANULE done | PACE_OCI.20240812T204559.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:42,817 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=12
+2026-01-29 16:51:42,817 | INFO | MEM_MB after store flush: 2811.6
+2026-01-29 16:51:42,818 | INFO | GRANULE start | PACE_OCI.20240812T205059.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2811.55859375
+2026-01-29 16:51:43,856 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:45,398 | INFO | GRANULE done | PACE_OCI.20240812T205059.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:45,401 | INFO | GRANULE start | PACE_OCI.20240819T195720.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2819.91015625
+2026-01-29 16:51:46,374 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:47,082 | INFO | GRANULE done | PACE_OCI.20240819T195720.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:47,249 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=13
+2026-01-29 16:51:47,250 | INFO | MEM_MB after store flush: 2787.0
+2026-01-29 16:51:47,252 | INFO | GRANULE start | PACE_OCI.20240819T213538.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2786.99609375
+2026-01-29 16:51:48,558 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:49,839 | INFO | GRANULE done | PACE_OCI.20240819T213538.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:50,027 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=14
+2026-01-29 16:51:50,028 | INFO | MEM_MB after store flush: 2820.1
+2026-01-29 16:51:50,029 | INFO | GRANULE start | PACE_OCI.20240827T193756.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2820.09375
+2026-01-29 16:51:50,841 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:50,952 | INFO | GRANULE done | PACE_OCI.20240827T193756.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:50,955 | INFO | GRANULE start | PACE_OCI.20240827T211614.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2803.51171875
+2026-01-29 16:51:52,270 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:54,491 | INFO | GRANULE done | PACE_OCI.20240827T211614.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:54,657 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=15
+2026-01-29 16:51:54,657 | INFO | MEM_MB after store flush: 2828.2
+2026-01-29 16:51:54,659 | INFO | GRANULE start | PACE_OCI.20240828T201221.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2828.2109375
+2026-01-29 16:51:55,466 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:56,904 | INFO | GRANULE done | PACE_OCI.20240828T201221.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:51:56,906 | INFO | GRANULE start | PACE_OCI.20240903T202212.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2828.22265625
+2026-01-29 16:51:57,876 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:51:58,837 | INFO | GRANULE done | PACE_OCI.20240903T202212.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:51:59,008 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=16
+2026-01-29 16:51:59,008 | INFO | MEM_MB after store flush: 2828.4
+2026-01-29 16:51:59,009 | INFO | GRANULE start | PACE_OCI.20240916T193710.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2828.35546875
+2026-01-29 16:51:59,819 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:00,063 | INFO | GRANULE done | PACE_OCI.20240916T193710.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:00,065 | INFO | GRANULE start | PACE_OCI.20240923T202039.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2828.42578125
+2026-01-29 16:52:01,188 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:02,318 | INFO | GRANULE done | PACE_OCI.20240923T202039.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:52:02,480 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=17
+2026-01-29 16:52:02,481 | INFO | MEM_MB after store flush: 2828.6
+2026-01-29 16:52:02,482 | INFO | GRANULE start | PACE_OCI.20240930T210357.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2828.6171875
+2026-01-29 16:52:03,684 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:06,099 | INFO | GRANULE done | PACE_OCI.20240930T210357.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:52:06,268 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=18
+2026-01-29 16:52:06,268 | INFO | MEM_MB after store flush: 2845.2
+2026-01-29 16:52:06,270 | INFO | GRANULE start | PACE_OCI.20241007T201341.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2845.24609375
+2026-01-29 16:52:07,980 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:08,921 | INFO | GRANULE done | PACE_OCI.20241007T201341.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:52:09,081 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=19
+2026-01-29 16:52:09,081 | INFO | MEM_MB after store flush: 2853.4
+2026-01-29 16:52:09,082 | INFO | GRANULE start | PACE_OCI.20241014T205621.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2853.37109375
+2026-01-29 16:52:09,690 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:12,057 | INFO | GRANULE done | PACE_OCI.20241014T205621.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:12,059 | INFO | GRANULE start | PACE_OCI.20241021T200035.L2.OC_AOP.V3_1.nc | rows=2 | mem_mb=2836.78125
+2026-01-29 16:52:12,996 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:14,923 | INFO | STORE_FLUSH | wrote_obs=2 total_done_obs=21
+2026-01-29 16:52:14,923 | INFO | MEM_MB after store flush: 2853.6
+2026-01-29 16:52:14,927 | INFO | GRANULE done | PACE_OCI.20241021T200035.L2.OC_AOP.V3_1.nc | written=2 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:52:14,928 | INFO | GRANULE start | PACE_OCI.20241021T213851.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2853.58203125
+2026-01-29 16:52:16,112 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:17,714 | INFO | GRANULE done | PACE_OCI.20241021T213851.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:17,717 | INFO | GRANULE start | PACE_OCI.20241104T194742.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2893.80859375
+2026-01-29 16:52:18,507 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:19,372 | INFO | GRANULE done | PACE_OCI.20241104T194742.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:52:20,278 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=22
+2026-01-29 16:52:20,279 | INFO | MEM_MB after store flush: 2910.5
+2026-01-29 16:52:20,280 | INFO | GRANULE start | PACE_OCI.20241104T212559.L2.OC_AOP.V3_1.nc | rows=2 | mem_mb=2910.453125
+2026-01-29 16:52:21,697 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:24,619 | INFO | STORE_FLUSH | wrote_obs=2 total_done_obs=24
+2026-01-29 16:52:24,620 | INFO | MEM_MB after store flush: 2965.9
+2026-01-29 16:52:24,625 | INFO | GRANULE done | PACE_OCI.20241104T212559.L2.OC_AOP.V3_1.nc | written=2 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:52:24,627 | INFO | GRANULE start | PACE_OCI.20241111T203049.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=2965.9140625
+2026-01-29 16:52:25,542 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:27,366 | INFO | GRANULE done | PACE_OCI.20241111T203049.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:52:27,600 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=25
+2026-01-29 16:52:27,600 | INFO | MEM_MB after store flush: 3054.1
+2026-01-29 16:52:27,601 | INFO | GRANULE start | PACE_OCI.20241118T194029.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3054.10546875
+2026-01-29 16:52:28,483 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:28,577 | INFO | GRANULE done | PACE_OCI.20241118T194029.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:28,579 | INFO | GRANULE start | PACE_OCI.20241118T211346.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3079.06640625
+2026-01-29 16:52:29,311 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:30,817 | INFO | GRANULE done | PACE_OCI.20241118T211346.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:30,819 | INFO | GRANULE start | PACE_OCI.20241125T201826.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3191.91015625
+2026-01-29 16:52:31,652 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:33,315 | INFO | GRANULE done | PACE_OCI.20241125T201826.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:33,317 | INFO | GRANULE start | PACE_OCI.20241125T202326.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3158.3046875
+2026-01-29 16:52:33,877 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:34,724 | INFO | GRANULE done | PACE_OCI.20241125T202326.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:34,726 | INFO | GRANULE start | PACE_OCI.20241209T201042.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3191.3828125
+2026-01-29 16:52:35,428 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:36,816 | INFO | GRANULE done | PACE_OCI.20241209T201042.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:52:37,009 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=26
+2026-01-29 16:52:37,010 | INFO | MEM_MB after store flush: 3199.9
+2026-01-29 16:52:37,011 | INFO | GRANULE start | PACE_OCI.20241209T214359.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3199.91015625
+2026-01-29 16:52:37,869 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:39,626 | INFO | GRANULE done | PACE_OCI.20241209T214359.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:52:39,794 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=27
+2026-01-29 16:52:39,794 | INFO | MEM_MB after store flush: 3175.3
+2026-01-29 16:52:39,795 | INFO | GRANULE start | PACE_OCI.20241217T195245.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3175.29296875
+2026-01-29 16:52:40,609 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:40,751 | INFO | GRANULE done | PACE_OCI.20241217T195245.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:40,754 | INFO | GRANULE start | PACE_OCI.20241217T212605.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3191.765625
+2026-01-29 16:52:41,696 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:43,662 | INFO | GRANULE done | PACE_OCI.20241217T212605.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:43,665 | INFO | GRANULE start | PACE_OCI.20241217T213105.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3311.81640625
+2026-01-29 16:52:44,585 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:46,196 | INFO | GRANULE done | PACE_OCI.20241217T213105.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:52:46,368 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=28
+2026-01-29 16:52:46,368 | INFO | MEM_MB after store flush: 3414.0
+2026-01-29 16:52:46,369 | INFO | GRANULE start | PACE_OCI.20241226T201036.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3414.02734375
+2026-01-29 16:52:47,033 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:47,134 | INFO | GRANULE done | PACE_OCI.20241226T201036.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:47,136 | INFO | GRANULE start | PACE_OCI.20241226T214355.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3380.98046875
+2026-01-29 16:52:47,983 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:50,725 | INFO | GRANULE done | PACE_OCI.20241226T214355.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:50,727 | INFO | GRANULE start | PACE_OCI.20241230T205116.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3429.54296875
+2026-01-29 16:52:51,526 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:53,666 | INFO | GRANULE done | PACE_OCI.20241230T205116.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:53,668 | INFO | GRANULE start | PACE_OCI.20250106T195926.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3542.375
+2026-01-29 16:52:54,274 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:54,421 | INFO | GRANULE done | PACE_OCI.20250106T195926.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:54,423 | INFO | GRANULE start | PACE_OCI.20250106T213245.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3422.48828125
+2026-01-29 16:52:55,592 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:57,152 | INFO | GRANULE done | PACE_OCI.20250106T213245.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:57,155 | INFO | GRANULE start | PACE_OCI.20250106T213745.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3397.73046875
+2026-01-29 16:52:58,005 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:52:59,006 | INFO | GRANULE done | PACE_OCI.20250106T213745.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:52:59,008 | INFO | GRANULE start | PACE_OCI.20250113T204049.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3421.93359375
+2026-01-29 16:53:00,053 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:02,111 | INFO | GRANULE done | PACE_OCI.20250113T204049.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:53:02,284 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=29
+2026-01-29 16:53:02,284 | INFO | MEM_MB after store flush: 3558.1
+2026-01-29 16:53:02,286 | INFO | GRANULE start | PACE_OCI.20250113T204549.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3558.12890625
+2026-01-29 16:53:03,186 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:04,118 | INFO | GRANULE done | PACE_OCI.20250113T204549.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:53:04,297 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=30
+2026-01-29 16:53:04,298 | INFO | MEM_MB after store flush: 3495.4
+2026-01-29 16:53:04,299 | INFO | GRANULE start | PACE_OCI.20250117T194803.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.42578125
+2026-01-29 16:53:05,023 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:05,243 | INFO | GRANULE done | PACE_OCI.20250117T194803.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:05,245 | INFO | GRANULE start | PACE_OCI.20250117T212122.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.4296875
+2026-01-29 16:53:06,143 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:08,844 | INFO | GRANULE done | PACE_OCI.20250117T212122.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:08,847 | INFO | GRANULE start | PACE_OCI.20250121T202337.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.43359375
+2026-01-29 16:53:09,925 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:10,632 | INFO | GRANULE done | PACE_OCI.20250121T202337.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:53:10,787 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=31
+2026-01-29 16:53:10,787 | INFO | MEM_MB after store flush: 3495.4
+2026-01-29 16:53:10,788 | INFO | GRANULE start | PACE_OCI.20250121T202837.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.43359375
+2026-01-29 16:53:11,466 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:12,217 | INFO | GRANULE done | PACE_OCI.20250121T202837.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:12,219 | INFO | GRANULE start | PACE_OCI.20250129T200618.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.4375
+2026-01-29 16:53:13,686 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:14,877 | INFO | GRANULE done | PACE_OCI.20250129T200618.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:14,879 | INFO | GRANULE start | PACE_OCI.20250129T214436.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.4375
+2026-01-29 16:53:15,918 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:17,975 | INFO | GRANULE done | PACE_OCI.20250129T214436.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:17,977 | INFO | GRANULE start | PACE_OCI.20250203T194309.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.44140625
+2026-01-29 16:53:18,697 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:19,465 | INFO | GRANULE done | PACE_OCI.20250203T194309.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:19,467 | INFO | GRANULE start | PACE_OCI.20250203T212128.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.45703125
+2026-01-29 16:53:20,458 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:22,666 | INFO | GRANULE done | PACE_OCI.20250203T212128.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:22,668 | INFO | GRANULE start | PACE_OCI.20250211T210925.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.48046875
+2026-01-29 16:53:23,598 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:24,700 | INFO | GRANULE done | PACE_OCI.20250211T210925.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:24,702 | INFO | GRANULE start | PACE_OCI.20250218T202319.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.484375
+2026-01-29 16:53:25,299 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:25,829 | INFO | GRANULE done | PACE_OCI.20250218T202319.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:25,832 | INFO | GRANULE start | PACE_OCI.20250221T203139.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.48828125
+2026-01-29 16:53:26,739 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:27,950 | INFO | GRANULE done | PACE_OCI.20250221T203139.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:53:28,115 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=32
+2026-01-29 16:53:28,115 | INFO | MEM_MB after store flush: 3503.7
+2026-01-29 16:53:28,116 | INFO | GRANULE start | PACE_OCI.20250224T203956.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3503.671875
+2026-01-29 16:53:29,064 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:30,331 | INFO | GRANULE done | PACE_OCI.20250224T203956.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:30,334 | INFO | GRANULE start | PACE_OCI.20250303T195336.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3503.66796875
+2026-01-29 16:53:31,684 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:31,859 | INFO | GRANULE done | PACE_OCI.20250303T195336.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:53:32,017 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=33
+2026-01-29 16:53:32,017 | INFO | MEM_MB after store flush: 3503.7
+2026-01-29 16:53:32,018 | INFO | GRANULE start | PACE_OCI.20250303T213158.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3503.67578125
+2026-01-29 16:53:32,965 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:33,908 | INFO | GRANULE done | PACE_OCI.20250303T213158.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:53:34,080 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=34
+2026-01-29 16:53:34,080 | INFO | MEM_MB after store flush: 3503.7
+2026-01-29 16:53:34,082 | INFO | GRANULE start | PACE_OCI.20250310T204032.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3503.6875
+2026-01-29 16:53:35,231 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:36,791 | INFO | GRANULE done | PACE_OCI.20250310T204032.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:36,793 | INFO | GRANULE start | PACE_OCI.20250310T204532.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3503.6953125
+2026-01-29 16:53:37,773 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:38,798 | INFO | GRANULE done | PACE_OCI.20250310T204532.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:38,800 | INFO | GRANULE start | PACE_OCI.20250317T195400.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3503.703125
+2026-01-29 16:53:39,572 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:40,716 | INFO | GRANULE done | PACE_OCI.20250317T195400.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:40,718 | INFO | GRANULE start | PACE_OCI.20250317T195900.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3520.3125
+2026-01-29 16:53:41,559 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:42,128 | INFO | GRANULE done | PACE_OCI.20250317T195900.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:42,130 | INFO | GRANULE start | PACE_OCI.20250319T210500.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3520.328125
+2026-01-29 16:53:43,227 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:45,374 | INFO | GRANULE done | PACE_OCI.20250319T210500.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:45,376 | INFO | GRANULE start | PACE_OCI.20250324T204538.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3503.72265625
+2026-01-29 16:53:46,562 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:48,175 | INFO | GRANULE done | PACE_OCI.20250324T204538.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:53:48,339 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=35
+2026-01-29 16:53:48,339 | INFO | MEM_MB after store flush: 3512.0
+2026-01-29 16:53:48,341 | INFO | GRANULE start | PACE_OCI.20250414T200235.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3512.02734375
+2026-01-29 16:53:49,273 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:49,561 | INFO | GRANULE done | PACE_OCI.20250414T200235.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:49,563 | INFO | GRANULE start | PACE_OCI.20250421T205331.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3528.62890625
+2026-01-29 16:53:50,307 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:51,793 | INFO | GRANULE done | PACE_OCI.20250421T205331.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:53:51,795 | INFO | GRANULE start | PACE_OCI.20250428T200553.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3512.02734375
+2026-01-29 16:53:52,543 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:52,644 | INFO | GRANULE done | PACE_OCI.20250428T200553.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:53:52,824 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=36
+2026-01-29 16:53:52,824 | INFO | MEM_MB after store flush: 3512.0
+2026-01-29 16:53:52,825 | INFO | GRANULE start | PACE_OCI.20250428T213915.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3512.0390625
+2026-01-29 16:53:53,962 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:53:56,510 | INFO | GRANULE done | PACE_OCI.20250428T213915.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:53:56,676 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=37
+2026-01-29 16:53:56,676 | INFO | MEM_MB after store flush: 3495.6
+2026-01-29 16:53:56,677 | INFO | GRANULE start | PACE_OCI.20250505T205126.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.57421875
+2026-01-29 16:53:57,934 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:00,652 | INFO | GRANULE done | PACE_OCI.20250505T205126.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:54:00,843 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=38
+2026-01-29 16:54:00,844 | INFO | MEM_MB after store flush: 3495.6
+2026-01-29 16:54:00,845 | INFO | GRANULE start | PACE_OCI.20250513T203847.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.5859375
+2026-01-29 16:54:01,838 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:03,667 | INFO | GRANULE done | PACE_OCI.20250513T203847.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:54:03,842 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=39
+2026-01-29 16:54:03,842 | INFO | MEM_MB after store flush: 3495.6
+2026-01-29 16:54:03,843 | INFO | GRANULE start | PACE_OCI.20250519T205402.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.59375
+2026-01-29 16:54:04,776 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:07,892 | INFO | GRANULE done | PACE_OCI.20250519T205402.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:07,894 | INFO | GRANULE start | PACE_OCI.20250527T204128.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3495.59765625
+2026-01-29 16:54:09,159 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:10,657 | INFO | GRANULE done | PACE_OCI.20250527T204128.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:54:11,357 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=40
+2026-01-29 16:54:11,357 | INFO | MEM_MB after store flush: 3512.1
+2026-01-29 16:54:11,358 | INFO | GRANULE start | PACE_OCI.20250602T205630.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3512.11328125
+2026-01-29 16:54:12,586 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:13,858 | INFO | GRANULE done | PACE_OCI.20250602T205630.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:13,860 | INFO | GRANULE start | PACE_OCI.20250609T200821.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3512.203125
+2026-01-29 16:54:15,185 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:15,543 | INFO | GRANULE done | PACE_OCI.20250609T200821.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:15,545 | INFO | GRANULE start | PACE_OCI.20250623T200956.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3512.21484375
+2026-01-29 16:54:16,413 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:17,334 | INFO | GRANULE done | PACE_OCI.20250623T200956.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:17,336 | INFO | GRANULE start | PACE_OCI.20250623T214817.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3512.33203125
+2026-01-29 16:54:18,440 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:19,566 | INFO | GRANULE done | PACE_OCI.20250623T214817.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:19,568 | INFO | GRANULE start | PACE_OCI.20250630T205942.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3529.1171875
+2026-01-29 16:54:20,456 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:21,057 | INFO | GRANULE done | PACE_OCI.20250630T205942.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:21,059 | INFO | GRANULE start | PACE_OCI.20250707T201101.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3512.7578125
+2026-01-29 16:54:21,965 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:22,657 | INFO | GRANULE done | PACE_OCI.20250707T201101.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:22,659 | INFO | GRANULE start | PACE_OCI.20250714T210033.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3496.171875
+2026-01-29 16:54:23,792 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:24,057 | INFO | GRANULE done | PACE_OCI.20250714T210033.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:24,059 | INFO | GRANULE start | PACE_OCI.20250721T201138.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3512.6875
+2026-01-29 16:54:24,840 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:25,571 | INFO | GRANULE done | PACE_OCI.20250721T201138.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:25,573 | INFO | GRANULE start | PACE_OCI.20250721T214958.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3512.8671875
+2026-01-29 16:54:26,813 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:29,489 | INFO | GRANULE done | PACE_OCI.20250721T214958.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:54:29,662 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=41
+2026-01-29 16:54:29,662 | INFO | MEM_MB after store flush: 3513.0
+2026-01-29 16:54:29,664 | INFO | GRANULE start | PACE_OCI.20250725T205353.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3513.03125
+2026-01-29 16:54:30,648 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:31,422 | INFO | GRANULE done | PACE_OCI.20250725T205353.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:31,424 | INFO | GRANULE start | PACE_OCI.20250728T210056.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3513.04296875
+2026-01-29 16:54:32,165 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:34,962 | INFO | GRANULE done | PACE_OCI.20250728T210056.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:54:35,148 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=42
+2026-01-29 16:54:35,148 | INFO | MEM_MB after store flush: 3513.1
+2026-01-29 16:54:35,149 | INFO | GRANULE start | PACE_OCI.20250806T194840.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3513.06640625
+2026-01-29 16:54:35,852 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:35,951 | INFO | GRANULE done | PACE_OCI.20250806T194840.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:35,953 | INFO | GRANULE start | PACE_OCI.20250811T210050.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3513.078125
+2026-01-29 16:54:36,726 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:37,512 | INFO | GRANULE done | PACE_OCI.20250811T210050.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:37,514 | INFO | GRANULE start | PACE_OCI.20250821T202323.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3529.7734375
+2026-01-29 16:54:38,426 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:40,632 | INFO | GRANULE done | PACE_OCI.20250821T202323.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:54:40,800 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=43
+2026-01-29 16:54:40,801 | INFO | MEM_MB after store flush: 3546.6
+2026-01-29 16:54:40,802 | INFO | GRANULE start | PACE_OCI.20250825T210521.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3546.55078125
+2026-01-29 16:54:42,020 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:44,344 | INFO | GRANULE done | PACE_OCI.20250825T210521.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:44,346 | INFO | GRANULE start | PACE_OCI.20250908T210429.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3496.8984375
+2026-01-29 16:54:45,170 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:46,986 | INFO | GRANULE done | PACE_OCI.20250908T210429.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:54:46,989 | INFO | GRANULE start | PACE_OCI.20250915T201441.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3513.375
+2026-01-29 16:54:47,879 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:49,170 | INFO | GRANULE done | PACE_OCI.20250915T201441.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:54:49,351 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=44
+2026-01-29 16:54:49,351 | INFO | MEM_MB after store flush: 3513.5
+2026-01-29 16:54:49,352 | INFO | GRANULE start | PACE_OCI.20250922T210311.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3513.45703125
+2026-01-29 16:54:50,490 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:52,055 | INFO | GRANULE done | PACE_OCI.20250922T210311.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:54:52,223 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=45
+2026-01-29 16:54:52,223 | INFO | MEM_MB after store flush: 3505.2
+2026-01-29 16:54:52,224 | INFO | GRANULE start | PACE_OCI.20250929T201315.L2.OC_AOP.V3_1.nc | rows=2 | mem_mb=3505.171875
+2026-01-29 16:54:53,234 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:54,461 | INFO | GRANULE done | PACE_OCI.20250929T201315.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=2 no_spec=0
+2026-01-29 16:54:54,463 | INFO | GRANULE start | PACE_OCI.20250929T201815.L2.OC_AOP.V3_1.nc | rows=2 | mem_mb=3513.4921875
+2026-01-29 16:54:55,234 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:56,486 | INFO | GRANULE done | PACE_OCI.20250929T201815.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=2 no_spec=0
+2026-01-29 16:54:56,488 | INFO | GRANULE start | PACE_OCI.20251006T210127.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3497.07421875
+2026-01-29 16:54:57,374 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:54:58,775 | INFO | GRANULE done | PACE_OCI.20251006T210127.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:54:58,962 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=46
+2026-01-29 16:54:58,962 | INFO | MEM_MB after store flush: 3497.2
+2026-01-29 16:54:58,963 | INFO | GRANULE start | PACE_OCI.20251006T210627.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3497.1640625
+2026-01-29 16:54:59,760 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:01,269 | INFO | GRANULE done | PACE_OCI.20251006T210627.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:01,461 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=47
+2026-01-29 16:55:01,462 | INFO | MEM_MB after store flush: 3505.4
+2026-01-29 16:55:01,463 | INFO | GRANULE start | PACE_OCI.20251014T205110.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3505.3671875
+2026-01-29 16:55:02,379 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:03,995 | INFO | GRANULE done | PACE_OCI.20251014T205110.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:55:03,999 | INFO | GRANULE start | PACE_OCI.20251020T210415.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3513.71484375
+2026-01-29 16:55:05,034 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:06,716 | INFO | GRANULE done | PACE_OCI.20251020T210415.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:06,899 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=48
+2026-01-29 16:55:06,899 | INFO | MEM_MB after store flush: 3530.5
+2026-01-29 16:55:06,900 | INFO | GRANULE start | PACE_OCI.20251027T201353.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3530.52734375
+2026-01-29 16:55:07,427 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:08,746 | INFO | GRANULE done | PACE_OCI.20251027T201353.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:08,924 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=49
+2026-01-29 16:55:08,924 | INFO | MEM_MB after store flush: 3530.7
+2026-01-29 16:55:08,925 | INFO | GRANULE start | PACE_OCI.20251029T194526.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3530.7109375
+2026-01-29 16:55:09,450 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:10,236 | INFO | GRANULE done | PACE_OCI.20251029T194526.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:10,419 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=50
+2026-01-29 16:55:10,419 | INFO | MEM_MB after store flush: 3506.0
+2026-01-29 16:55:10,420 | INFO | GRANULE start | PACE_OCI.20251029T212346.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3505.96875
+2026-01-29 16:55:11,110 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:12,435 | INFO | GRANULE done | PACE_OCI.20251029T212346.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:12,620 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=51
+2026-01-29 16:55:12,621 | INFO | MEM_MB after store flush: 3522.5
+2026-01-29 16:55:12,622 | INFO | GRANULE start | PACE_OCI.20251103T210147.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3522.53125
+2026-01-29 16:55:13,435 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:14,642 | INFO | GRANULE done | PACE_OCI.20251103T210147.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:55:14,645 | INFO | GRANULE start | PACE_OCI.20251112T194253.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3530.87890625
+2026-01-29 16:55:15,424 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:15,847 | INFO | GRANULE done | PACE_OCI.20251112T194253.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:55:15,849 | INFO | GRANULE start | PACE_OCI.20251112T194753.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3547.54296875
+2026-01-29 16:55:16,385 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:16,473 | INFO | GRANULE done | PACE_OCI.20251112T194753.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:55:16,476 | INFO | GRANULE start | PACE_OCI.20251112T212113.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3547.75
+2026-01-29 16:55:17,548 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:19,410 | INFO | GRANULE done | PACE_OCI.20251112T212113.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:55:19,412 | INFO | GRANULE start | PACE_OCI.20251118T195547.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3548.015625
+2026-01-29 16:55:20,137 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:20,709 | INFO | GRANULE done | PACE_OCI.20251118T195547.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:20,891 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=52
+2026-01-29 16:55:20,892 | INFO | MEM_MB after store flush: 3523.4
+2026-01-29 16:55:20,893 | INFO | GRANULE start | PACE_OCI.20251118T200047.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3523.4453125
+2026-01-29 16:55:21,664 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:22,228 | INFO | GRANULE done | PACE_OCI.20251118T200047.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:22,392 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=53
+2026-01-29 16:55:22,393 | INFO | MEM_MB after store flush: 3548.2
+2026-01-29 16:55:22,394 | INFO | GRANULE start | PACE_OCI.20251118T213407.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3548.2265625
+2026-01-29 16:55:23,525 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:25,385 | INFO | GRANULE done | PACE_OCI.20251118T213407.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:25,561 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=54
+2026-01-29 16:55:25,561 | INFO | MEM_MB after store flush: 3556.6
+2026-01-29 16:55:25,563 | INFO | GRANULE start | PACE_OCI.20251124T200837.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3556.5546875
+2026-01-29 16:55:26,500 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:27,457 | INFO | GRANULE done | PACE_OCI.20251124T200837.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:28,966 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=55
+2026-01-29 16:55:28,966 | INFO | MEM_MB after store flush: 3531.8
+2026-01-29 16:55:28,967 | INFO | GRANULE start | PACE_OCI.20251124T201337.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3531.82421875
+2026-01-29 16:55:29,602 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:30,160 | INFO | GRANULE done | PACE_OCI.20251124T201337.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:30,481 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=56
+2026-01-29 16:55:30,482 | INFO | MEM_MB after store flush: 3556.6
+2026-01-29 16:55:30,483 | INFO | GRANULE start | PACE_OCI.20251203T203258.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3556.625
+2026-01-29 16:55:31,185 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:31,617 | INFO | GRANULE done | PACE_OCI.20251203T203258.L2.OC_AOP.V3_1.nc | written=0 skip_done=0 no_pix=1 no_spec=0
+2026-01-29 16:55:31,619 | INFO | GRANULE start | PACE_OCI.20251212T205220.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3565.046875
+2026-01-29 16:55:32,189 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:33,418 | INFO | GRANULE done | PACE_OCI.20251212T205220.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:33,590 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=57
+2026-01-29 16:55:33,591 | INFO | MEM_MB after store flush: 3556.9
+2026-01-29 16:55:33,592 | INFO | GRANULE start | PACE_OCI.20251215T205844.L2.OC_AOP.V3_1.nc | rows=1 | mem_mb=3556.9375
+2026-01-29 16:55:34,224 | INFO | Rrs dims=('number_of_lines', 'pixels_per_line', 'wavelength_3d') | using spatial dims: number_of_lines, pixels_per_line
+2026-01-29 16:55:35,106 | INFO | GRANULE done | PACE_OCI.20251215T205844.L2.OC_AOP.V3_1.nc | written=1 skip_done=0 no_pix=0 no_spec=0
+2026-01-29 16:55:35,337 | INFO | STORE_FLUSH | wrote_obs=1 total_done_obs=58
+2026-01-29 16:55:35,337 | INFO | MEM_MB after store flush: 3573.6
+2026-01-29 16:55:35,338 | INFO | DONE
+2026-01-29 16:55:35,338 | INFO | MEM_MB end: 3573.6
